@@ -1,3 +1,4 @@
 This is a sample file
 This is a second line
 New line added and This is third line
+Adding new line - sixth commit
